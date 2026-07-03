@@ -25,3 +25,5 @@ git push
 git pull
 git log --oneline -3
 ```
+
+Actualizacion remota para evidenciar git pull.
